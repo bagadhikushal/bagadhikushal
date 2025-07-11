@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kushal</h1>
-<h3 align="center">AI Engineer | Full-Stack Developer | Open-Source Enthusiast | Design Thinker</h3>
+<h3 align="center">AI Engineer | Developer | Open-Source Enthusiast | Design Thinker</h3>
 <img align="right" alt="loading..." width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 - 🔭 I’m currently pursuing **B.Tech in Electrical Engineering at NIT Rourkela**
