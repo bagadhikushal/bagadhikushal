@@ -22,10 +22,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/bagadhi kushal kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bagadhi kushal kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/bagadhikushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bagadhikushal" height="30" width="40" /></a>
-<a href="https://dribbble.com/bagadhikushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="bagadhikushal" height="30" width="40" /></a>
-<a href="https://www.behance.net/kushalbagadhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kushalbagadhi" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/local_blossom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="local_blossom" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bagadhikushal131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bagadhikushal131" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/kushalkumarbagadhi" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" height="30" width="40"/></a>
+<a href="https://huggingface.co/Kushal1304" target="blank"><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="Hugging Face" height="30" width="40"/></a>
 <a href="https://www.leetcode.com/bkushalkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bkushalkumar" height="30" width="40" /></a>
 <a href="https://discord.gg/kushal#1949" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kushal#1949" height="30" width="40" /></a>
 </p>
