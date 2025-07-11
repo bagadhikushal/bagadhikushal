@@ -8,9 +8,9 @@
 
 - 💻 Exploring **End-to-End AI Solutions** from data pipelines to model deployment
 
-- 🌱 I’m learning **Node.js** and improving my **MLOps & backend** skills
+- 🌱 I’m improving my **MLOps & backend** skills
 
-- 💬 Ask me about **AI/ML, full-stack dev, or system design**
+- 💬 Ask me about **AI/ML**
 
 - 📫 Reach me at **bagadhikushal1304@gmail.com**
 
